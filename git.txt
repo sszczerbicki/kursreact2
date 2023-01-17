@@ -18,5 +18,6 @@ git commit -m "message" (commitowanie z komentarzem)
 git push origin (trzeba potem jeszcze pusznąć)
 
 git checkout develop //przełączamy się na gałąź develop
-git merge feature_slider //scalamy do develop gałąź feature_slider
+git merge branch_name //scalamy do develop gałąź feature_slider
 
+git branch -d branch_name //usuwa branch 
