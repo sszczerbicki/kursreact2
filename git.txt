@@ -21,3 +21,29 @@ git checkout develop //przełączamy się na gałąź develop
 git merge branch_name //scalamy do develop gałąź feature_slider
 
 git branch -d branch_name //usuwa branch 
+
+
+
+    git status
+git status //sprawdza aktualny status lokalnego repozytorium
+
+    git add nazwa_pliku
+git add . //dodaje wszystko do pushowania
+
+git add nazwa_pliku //dodaje tylko konkretny plik do pushowania
+
+git rm nazwa_pliku //usuwa plik
+
+git add . --all //dodanie zmian wraz z usuwaniem
+
+    git commit
+git commit -m "message"
+
+git push origin main
+
+    git pull
+git pull //ściąganie wszystkiego
+
+git pull origin branch_name //ściąganie konkretnego brancha
+
+git fetch //obkrojona wersja pulla, nie merguje repozytorjów po ściągnięciu 
