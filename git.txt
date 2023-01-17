@@ -1,0 +1,22 @@
+git init (tworzy potrzebne katalogi gitowe)
+
+git remote add origin https://github.com/nasz-uzytkownik/nasz-projekt.git (łączenie repozetoriów)
+
+git clone https://github.com/nasz-uzytkownik/nasz-projekt.git (ściąganie rezpozytorium (link można z ssh))
+
+branch -a (sprawdza branche lokalne i zdalne)
+
+//zamiast
+git branch nazwaBrancha
+git checkout nazwaBrancha
+
+//można
+git checkout -b nazwaBrancha
+
+git commit -m "message" (commitowanie z komentarzem)
+
+git push origin (trzeba potem jeszcze pusznąć)
+
+git checkout develop //przełączamy się na gałąź develop
+git merge feature_slider //scalamy do develop gałąź feature_slider
+
