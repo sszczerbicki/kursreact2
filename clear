@@ -1,0 +1,35 @@
+[33mcommit 03d9d6bfd93c4ad05ffc9d115f8f126df1b90a0a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sszczerbicki <s.szczerbicki@codejetapp.com>
+Date:   Tue Jan 17 12:36:16 2023 +0100
+
+    dodanie infomacji na temat pracy z branchami - gittxt
+
+[33mcommit cf465b7aeef87f550ae713f8c1642a931e1e251b[m
+Author: sszczerbicki <s.szczerbicki@codejetapp.com>
+Date:   Tue Jan 17 12:25:49 2023 +0100
+
+    zmiana gittxt
+
+[33mcommit 5541b2265648dec8c65a2e5408ee4bf5be17dd62[m
+Author: sszczerbicki <s.szczerbicki@codejetapp.com>
+Date:   Tue Jan 17 12:22:28 2023 +0100
+
+    pierwszy upload gittxt
+
+[33mcommit db83ed7fe7f5119b5d038ac095892de32d8dfb3d[m[33m ([m[1;32mBrancz[m[33m)[m
+Author: sszczerbicki <s.szczerbicki@codejetapp.com>
+Date:   Tue Jan 17 11:22:11 2023 +0100
+
+    zmiana
+
+[33mcommit c364c6d799482a3bd598bb19f7fa59f9d9dc1ea9[m
+Author: sszczerbicki <s.szczerbicki@codejetapp.com>
+Date:   Tue Jan 17 11:16:40 2023 +0100
+
+    test
+
+[33mcommit 9178e811d16e685857bef6043aad6aacb493f745[m
+Author: sszczerbicki <122788242+sszczerbicki@users.noreply.github.com>
+Date:   Tue Jan 17 10:33:32 2023 +0100
+
+    Initial commit

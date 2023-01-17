@@ -47,3 +47,12 @@ git pull //ściąganie wszystkiego
 git pull origin branch_name //ściąganie konkretnego brancha
 
 git fetch //obkrojona wersja pulla, nie merguje repozytorjów po ściągnięciu 
+
+    git checkout
+git checkout nazwa_pliku //pobranie/przywracanie do wersji z serwera
+
+git checkout kod_commita plik1.js //przywrócenie pliku do wersji konkretnego commita ("b2e72b007dc479f77fa6e7d243fe89c0488d02e7")
+
+git log //stąd wziąśc kod commitu
+
+git show kod_commita plik1.js //podejrzenie pliku w wersji commita
