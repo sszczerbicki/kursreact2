@@ -56,3 +56,25 @@ git checkout kod_commita plik1.js //przywrócenie pliku do wersji konkretnego co
 git log //stąd wziąśc kod commitu
 
 git show kod_commita plik1.js //podejrzenie pliku w wersji commita
+
+    pull request
+w współdzielonych repozytoriach main jest bloknięty i trzeba robić pull requesty
+
+    łączenie gałęzi
+git checkout main //przełączamy się na gałąź
+git merge develop //mergujemy gałąź
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+
+https://www.pluralsight.com/courses/how-git-works
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
+https://learngitbranching.js.org/
+
+
+    dodatkowe z cheat sheeta
+git reset nazwa_pliku //wycofanie pliku ze stage zachowując zmiany w katalogu roboczym
+
+git diff //diff tego, co zostało zmienione, ale nie zostało wystawione
+
+    tymczasowe commity
+git stash //Save modified and staged changesgit stash listlist stack-order of stashed file changesgit stash popwrite working from top of stash stackgit stash dropdiscard the changes from top of stash stack
