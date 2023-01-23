@@ -1,0 +1,51 @@
+HTML
+https://the-awwwesomes-2.gitbook.io/tutorial-the-awwwesomes-html-and-css/
+http://www.w3schools.com/html
+http://www.html5rocks.com/en
+http://www.w3.org/TR/html5
+http://developer.mozilla.org/en-US/docs/Web/HTML
+CSS
+http://www.w3schools.com/css
+http://developer.mozilla.org/en-US/docs/Web/CSS
+http://cssreference.io
+https://tympanus.net/codrops/css_reference/
+Kanały na Youtube
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA - Traversy Media
+https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/playlists - net ninja
+https://www.youtube.com/user/wesbos/playlists - Websbos
+https://www.youtube.com/user/DesignCourse/videos - DesignCourse
+https://www.youtube.com/user/thenewboston/videos - The New Boston
+https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q - FunFun Function
+https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg - LevelUpTuts
+https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ - DevTips
+https://www.youtube.com/channel/UCLLdzVN9P9lV8kmJhHsiuHA - Koduje
+https://www.youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg - Samuraj Programowania
+https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg - techsith
+Emmet - lepsze pisanie HTML
+https://www.youtube.com/watch?v=MTNPvfJw_I8
+https://www.youtube.com/watch?v=5BIAdWNcr8Y
+Klika stron do przeglądania
+https://www.smashingmagazine.com/
+http://css-tricks.com
+http://tutorialzine.com/
+http://tympanus.net/codrops/
+http://grafmag.pl/
+http://alistapart.com/
+https://nafrontendzie.pl/
+http://www.webdesignerdepot.com/
+https://speckyboy.com/
+http://design.tutsplus.com/
+https://webdesign.tutsplus.com/tutorials
+https://davidwalsh.name/
+http://code.tutsplus.com/
+Darmowe stocki
+https://www.pexels.com/
+http://picjumbo.com/
+http://unsplash.com/
+http://pixabay.com/
+https://gratisography.com/
+https://dailyweb.pl/lista-darmowych-stockow/
+Dodatkowe rzeczy i listy programów
+http://wwwhere.io/
+https://enboard.co/martijnkeesmaat/
+https://uptodate.frontendrescue.org/pl/
