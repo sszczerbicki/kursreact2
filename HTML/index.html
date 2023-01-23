@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Course training</title>
 </head>
 <body>
     <h1 id="up">ジャパニーズテスト</h1>
-
     <br><br>
 
     <header class="header">
@@ -48,7 +48,7 @@
       </section>
 
       <br><br>
-      <h1>Listy</h1>
+      <h1>List</h1>
       <ul>
         <li>
           Lista
@@ -71,7 +71,7 @@
       <video src="boom2.mp4" width="400px" controls alt="boomvibes.mp4"></video>
       <br>
       <h2>Image</h2>
-      <img src="Goku.png" alt="GokuDrip" title="goku drip" width="300px">
+      <img src="Goku.png" alt="GokuDrip" title="goku drip" width="300px" id="goku">
       <br>
       
       <h1>Table</h1>
@@ -111,11 +111,16 @@
         </tbody>
       </table>
       
+      <h3>Lista używanych inlineów</h3>
+      <img src="inline.png" width="700px" alt="Lista inline"></img>
+      <h3>Lista używanych blocków</h3>
+      <img src="block.png" width="700px" alt="Lista inline"></img>
+
 
 
       <br>
       <footer>
-        <small>&copy; Copyright <u>kompletnie nikt sp.z.o.o</u></small>  <a href="#up">Przejdź na górę strony</a>
+        <small>&copy; Copyright <u>kompletnie nikt sp.z.o.o</u></small> <input type="button" onclick="location.href='#up'" value="&#x2191; Go Up &#x2191;" id="totop"/>
       </footer>
 </body>
 </html>
