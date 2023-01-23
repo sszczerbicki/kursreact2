@@ -1,8 +1,39 @@
 #goku {
     background-color: red;
     padding: 5px;
+    border: 6px dotted black;
 }
 
 #totop {
     background-color: aqua;
 }
+
+.content {
+    font-size: 24px;
+    color: aqua;
+    font-weight: bold;
+    margin: 10px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: fit-content;
+  }
+
+  p.content2{
+    font-size: 24px;
+    color: blue;
+    font-weight: bold;
+    margin: 10px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: fit-content;
+  }
+
+  .content3{
+    display: none;
+  }
+
+  #overflow{
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+  }
