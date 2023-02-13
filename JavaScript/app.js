@@ -1,5 +1,5 @@
 //https://medium.com/4thought-studios/documenting-javascript-projects-f72429da2eea 
-
+/*
 console.log("Hello world");
 
 const tab = [1,2,3];
@@ -44,3 +44,32 @@ let imie = "Jan";
 let nazwisko = "Łasica";
 let nazwa = imie + " " + nazwisko;
 console.log(nazwa)
+
+//tablice jednowymiarowe
+
+const Tab = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+for (let i=0; i<Tab.length; i++){
+  console.log(Tab[i]);
+}
+
+// tablice wielowymiarowe
+
+const TAB = [
+  [[1,2,3],[2,3,4],[3,4,5]],
+  [[4,5,6],[5,6,7],[6,7,8]],
+  [[7,8,9],[8,9,10],[9,10,11]]
+];
+for(let i=0; i<3; i++){
+  for(let j=0; j<9; j++){  
+      console.log(TAB[i][j]);
+  }
+}
+*/
+const person = {
+  name: "Jacob",
+  age: 25,
+  isTired: true,
+  saySomething: function(){
+    console.log("I wanna go home 🥱")
+  }
+}
