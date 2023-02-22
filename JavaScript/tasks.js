@@ -68,7 +68,32 @@ const car = {
 }
 
 function obiekty(){
-    console.log("auto: "+car.type+" "+car.color+" "+car.engine);
+    console.log("car: "+car.type+" "+car.color+" "+car.engine);
+}
+
+//TASKS 2
+
+function tabfor(){
+    n = 10;
+    array[n];
+    for (let i=0; i<n; i++){
+        array.push(i);
+    }
+    for (let j=0; j<n; j++){
+        console.log(array[j]);
+    }
+}
+
+function modulo(){
+    n = 20;
+    for (let i=0; i <= n; i++){
+        if(i%2==0){
+            console.log(i + " - parzysta")
+        }
+        if(i%2==1){
+            console.log(i + " - nieparzysta")
+        }
+    }
 }
     
     
