@@ -96,4 +96,29 @@ function modulo(){
     }
 }
     
-    
+function tabliczka(){
+    n = 5;
+    const tab=[];
+    for (let i=1; i<=n; i++){
+        for (let j=1;j<=n; j++){
+            tab.push(i + "x" + j + "=" + i*j);
+        }
+        tab.next();
+    }
+    console.log(tab);
+}
+
+
+
+
+
+function showUsers(){
+    const users = ["User1","User2","User3","User4","User5"]
+    console.log("Users: ");
+    printArray(users);
+}
+function printArray(tab){
+    for (let i=0; i<tab.length; i++){
+        console.log(tab[i]);
+    }
+}
